@@ -1,0 +1,21 @@
+/* style.css */ 
+
+.oddNum {
+    background-color: #fc869a; 
+    font-size: 15px; 
+}
+
+.oddNum.largerFont {
+    font-size: 26px; 
+}
+
+#id_1 {
+    font-size: 40px; 
+    color: #0000FF; 
+}
+
+#id_2 {
+    background-color: #73db68; 
+    font-size: 20px; 
+    font-weight: 700; 
+}
